@@ -1,2 +1,5 @@
 # login
-Clean and simple login template!
+
+Clean and simple website login template!
+
+![screenshot](http://i.imgur.com/D9LIFgS.png)
